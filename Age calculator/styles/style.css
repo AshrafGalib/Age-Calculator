@@ -1,0 +1,34 @@
+body{
+    font-family: "Poppins", sans-serif;;
+}
+select{
+    width: 90px;
+    height: 40px;
+}
+input{
+    width: 90px;
+    height: 34px;
+}
+button{
+    margin-top: 20px;
+}
+span{
+    color: red;
+}
+#Age-Calculator{
+    border-style: solid;
+    padding: 20px;
+    width: 300px;
+    background-color:	#dcd19d;
+    border-right:navy;
+    border-color: #693d04;
+    border-width: 5px;
+    border-top: none;
+    border-bottom: none;
+    
+    
+}
+button{
+    width: 120px;
+    height: 30px;
+}
